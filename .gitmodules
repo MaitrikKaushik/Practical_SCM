@@ -1,0 +1,3 @@
+[submodule "rental_services"]
+	path = rental_services
+	url = https://github.com/MaitrikKaushik/online_rental_services.git
